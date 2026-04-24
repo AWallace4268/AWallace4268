@@ -3,7 +3,7 @@
 # Andrew Marshall Wallace
 
 🎓 Computer Science Graduate (Southern New Hampshire University)  
-💻 Full-Stack Developer | Cloud | Software Engineering  
+💻 Full-Stack Software Engineer | AWS Cloud Developer| CS Graduate  
 📍 Artesia, New Mexico  
 🔗 LinkedIn: https://www.linkedin.com/in/andrew-wallace-591748277  
 
